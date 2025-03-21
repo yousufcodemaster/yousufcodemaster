@@ -1,7 +1,7 @@
 - 👋 Hello people I am Muhammad yousuf.
 - 🌱 I am a gamer + developer
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yousufcodemaster&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yousufcodemaster&theme=vue)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yousufcodemaster/yousufcodemaster/output/github-contribution-grid-snake-dark.svg">
@@ -10,10 +10,10 @@
 </picture>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yousufcodemaster&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yousufcodemaster&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yousufcodemaster&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yousufcodemaster&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yousufcodemaster&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yousufcodemaster&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yousufcodemaster&theme=vue&utcOffset=8)
 
 
 
